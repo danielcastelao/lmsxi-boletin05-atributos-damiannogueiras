@@ -7,6 +7,8 @@
 <!ATTLIST cuadro comentario CDATA #IMPLIED>
 ]>
 <cuadros>
-<cuadro titulo="Adán y Eva" autor="Alberto Durero" />
-<cuadro autor="Lucas Cranach, el viejo" titulo="Adán y Eva" />
+<cuadro titulo="AdanYEva" autor="Alberto Durero" />
+<cuadro autor="Lucas Cranach, el viejo" titulo="MiCaballo" />
+<cuadro titulo="ElCorsario" autor="Perez Mané" comentario="Bueno del todo"/>
 </cuadros>
+<!-- alumno -->
